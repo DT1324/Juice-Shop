@@ -1,0 +1,177 @@
+h1 {
+    color: #779611;
+}
+
+h2 {
+    color: #779611;
+}
+
+.hero-button {
+    background-color: #779611;
+    font-size: 32px;
+    padding: 18px 70px;
+    color: white;
+    border-radius: 40px;
+    border: none;
+}
+
+h3 {
+    color: #779611;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1720px;
+    margin: 0 auto;
+}
+
+.header-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header-logo {
+    margin-right: 120px;
+}
+
+.navigation-link {
+    font-size: 20px;
+    font-weight: 500;
+    color: #707070;
+    margin-right: 80px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #F9F9F9;
+}
+
+header {
+    padding: 41px 0;
+}
+
+.hero-flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-h1 {
+    width: 480px;
+    font-size: 48px;
+}
+
+.hero-text {
+    font-size: 24px;
+}
+
+.hero {
+    border-top: 2px solid #779611;
+    border-bottom: 2px solid #779611;
+}
+
+.hero-div {
+    width: 580px;
+}
+
+.hero-text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.shop-h2 {
+    margin-top: 80px;
+}
+
+.shop-text {
+    margin-top: 35px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.shop-ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.shop-p {
+    font-size: 24px;
+    color: #779611;
+    margin-left: 50px;
+}
+
+.shop-price {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.shop-h2 {
+    font-size: 32px;
+}
+
+.Subscription-h2 {
+    font-size: 32px;
+}
+
+.Subscription-text {
+    font-size: 20px;
+}
+
+.Subscription-ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Subscription-p {
+    font-size: 24px;
+    color: #779611;
+    margin-left: 50px;
+}
+
+.Subscrition-price {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.hero-1 {
+    font-size: 32px;
+}
+
+.hero-h2 {
+    font-size: 32px;
+}
+
+.hero-1p {
+    font-size: 20px;
+}
+
+.hero-1img {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.hero-1article {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    justify-content: space-between;
+} 
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+}
